@@ -41,93 +41,63 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <div className='text-2xl'>Christmas informations all around the world</div>
+          <Link href="/posts" className='text-2xl'>Christmas informations all around the world ⇀ Read some news now ↼</Link>
         </div>
 
         <div className={styles.grid}>
-          <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Link href="/traditions" className={styles.card}>
             <h2 className={inter.className}>
               Traditions  <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Discover Christmas traditions in many countries in the world
             </p>
-          </a>
+          </Link>
 
-          <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Link href="/foods-drinks" className={styles.card}>
             <h2 className={inter.className}>
-              Food & Drinks <span>-&gt;</span>
+              Foods & Drinks <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Discover foods and drinks in many places
             </p>
-          </a>
+          </Link>
 
-          <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Link href="/quiz" className={styles.card}>
             <h2 className={inter.className}>
               Quiz <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Get fun with many Christmas quizs and minigames
             </p>
-          </a>
+          </Link>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Link href="/carols" className={styles.card}>
             <h2 className={inter.className}>
               Carols <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Enjoy Christmas carols with us here
             </p>
-          </a>
+          </Link>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Link href="/decorations" className={styles.card}>
             <h2 className={inter.className}>
               Decorations <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               How to decorate everything in Christmas?
             </p>
-          </a>
+          </Link>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Link href="/countdown" className={styles.card}>
             <h2 className={inter.className}>
               Countdown <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Christmas is coming... Let&apos;s countdown with us
             </p>
-          </a>
+          </Link>
 
           <Link href="/feedback" className={styles.card}>
             <h2 className={inter.className}>
