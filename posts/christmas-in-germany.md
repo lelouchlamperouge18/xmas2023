@@ -1,6 +1,7 @@
 ---
 title: 'Christmas in Germany'
 date: '2023-01-14'
+author: 'Havertz QT'
 ---
 
 A big part of the **Christmas celebrations in Germany** is **Advent**. Several different types of Advent calendars are used in German homes. As well as the traditional one made of card that are used in many countries, there are ones made out of a wreath of Fir tree branches with 24 decorated boxes or bags hanging from it. Each box or bag has a little present in it. Another type is called a 'Advent Kranz' and is a ring of fir branches that has four candles on it. This is like the Advent candles that are sometimes used in Churches. One candle is lit at the beginning of each week in Advent.

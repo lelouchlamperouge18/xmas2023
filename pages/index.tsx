@@ -59,7 +59,7 @@ export default function Home() {
               Foods & Drinks <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover foods and drinks in many places
+              Discover foods and drinks in many places at Christmas
             </p>
           </Link>
 
@@ -86,7 +86,7 @@ export default function Home() {
               Decorations <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              How to decorate everything in Christmas?
+              How to decorate everything at Christmas?
             </p>
           </Link>
 

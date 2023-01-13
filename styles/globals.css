@@ -103,3 +103,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.content-post li {
+  list-style: disc;
+  margin-left: 1.25rem;
+}

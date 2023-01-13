@@ -1,6 +1,7 @@
 ---
 title: 'Christmas Day 2023'
 date: '2020-01-13'
+author: 'Cong Son Hoang'
 ---
 
 Christmas Day for the year 2023 is celebrated/ observed on **Monday, December 25th**.
