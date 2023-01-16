@@ -15,11 +15,15 @@ const items = [
         Home
       </Link>
     ),
-    key: "youtube-channel",
+    key: "home",
     icon: <HomeOutlined />,
   },
   {
-    label: "Traditions",
+    label: (
+      <Link href="/traditions">
+        Traditions
+      </Link>
+    ),
     key: "traditions",
     icon: <MailOutlined />,
   },
