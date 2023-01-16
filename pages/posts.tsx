@@ -7,7 +7,7 @@ import Layout, { siteTitle } from '../components/layout'
 import utilStyles from '../styles/utils.module.css'
 import { getSortedPostsData } from '../lib/posts'
 
-import undraw_Santa_visit_re_oiwr from '../assets/undraw/undraw_Santa_visit_re_oiwr.png'
+import undraw_Santa_visit_re_oiwr from '/assets/undraw/undraw_Santa_visit_re_oiwr.png'
 
 export async function getStaticProps() {
     const allPostsData = getSortedPostsData()
